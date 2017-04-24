@@ -41,8 +41,8 @@ ja:
         title: 新規アプリ
       show:
         actions: アクション
-        application_id: アクションId
-        callback_urls: コールバックurl
+        application_id: アクションID
+        callback_urls: コールバックURL
         scopes: アクセス権
         secret: 非公開
         title: 'アプリ: %{name}'
